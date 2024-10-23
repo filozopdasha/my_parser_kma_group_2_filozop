@@ -1,0 +1,10 @@
+/Users/filozopdasha/Desktop/my_parser_kma_group_2_filozop/target/debug/deps/libpeg_macros-abf8ef9d3ed7fa96.dylib: /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/lib.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/analysis.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/ast.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/grammar.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/tokens.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/translate.rs
+
+/Users/filozopdasha/Desktop/my_parser_kma_group_2_filozop/target/debug/deps/peg_macros-abf8ef9d3ed7fa96.d: /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/lib.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/analysis.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/ast.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/grammar.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/tokens.rs /Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/translate.rs
+
+/Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/lib.rs:
+/Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/analysis.rs:
+/Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/ast.rs:
+/Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/grammar.rs:
+/Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/tokens.rs:
+/Users/filozopdasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/translate.rs:

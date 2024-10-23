@@ -1,0 +1,1 @@
+/Users/filozopdasha/Desktop/my_parser_kma_group_2_filozop/target/debug/libmy_parser_kma_group_2_filozop.rlib: /Users/filozopdasha/Desktop/my_parser_kma_group_2_filozop/src/lib.rs
